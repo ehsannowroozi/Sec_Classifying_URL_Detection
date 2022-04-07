@@ -2,12 +2,15 @@
 ###[Secure Classifying for Malicious URLs Detection Against Adversarial Attack]
 
 
-Authors: [Ehsan Nowroozi](https://scholar.google.com/citations?user=C0bNkP8AAAAJ&hl=en), [Abhishek], [Mauro Conti](https://scholar.google.com/citations?user=0BcsOY8AAAAJ&hl=en)
+Authors: [Ehsan Nowroozi](https://scholar.google.com/citations?user=C0bNkP8AAAAJ&hl=en), Abhishek, [Mauro Conti](https://scholar.google.com/citations?user=0BcsOY8AAAAJ&hl=en)
 
-2022-2023 [Ehsan Nowroozi], Center of Excellence in Data Analytics (VERIM), Sabanci University, Istanbul
+2022-2023 
+[Ehsan Nowroozi], Center of Excellence in Data Analytics (VERIM), Sabanci University, Istanbul
 Turkey 34956; Faculty of Engineering and Natural Sciences, Sabanci University, Istanbul, Turkey; University of Padua, Department of Mathematics, Seurity and Privacy Research Group (SPRITZ), Italy. (ehsan.nowroozi@sabanciuniv.edu, nowroozi@math.unipd.it, ehsan.nowroozi65@gmail.com)
-          [Abhishek], MNNIT Allahabad, Prayagraj-211004, India and University of Delhi-110007, Delhi, India. (abhishek1verma99@gmail.com)
-          [Mauro Conti], University of Padua, Department of Mathematics, Seurity and Privacy Research Group (SPRITZ), Italy. (mauro.conti@unipd.it)
+
+[Abhishek], MNNIT Allahabad, Prayagraj-211004, India and University of Delhi-110007, Delhi, India. (abhishek1verma99@gmail.com)
+         
+[Mauro Conti], University of Padua, Department of Mathematics, Seurity and Privacy Research Group (SPRITZ), Italy. (mauro.conti@unipd.it)
 
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.
