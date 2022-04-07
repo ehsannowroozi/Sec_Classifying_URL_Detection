@@ -1,5 +1,5 @@
 # Sec_Classifying_URL_Detection
-###[Secure Classifying for Malicious URLs Detection Against Adversarial Attack]
+Secure Classifying for Malicious URLs Detection Against Adversarial Attack
 
 
 Authors: [Ehsan Nowroozi](https://scholar.google.com/citations?user=C0bNkP8AAAAJ&hl=en), Abhishek, [Mauro Conti](https://scholar.google.com/citations?user=0BcsOY8AAAAJ&hl=en)
@@ -29,20 +29,25 @@ Datasets
 Datasets are taken from different sources avlailable on internet. We have considered 12 different datasets which consists of 6 malicious and 6 benign URLs. The dataset includes about 3980870 URLs. We extracted the 89 lexical and web scrapped features for the further task. Original dataset URLs are available [Dropbox](https://www.dropbox.com/s/r90hufaok1fgn6f/Original%20Datasets.zip?dl=0)
 
 Resources
+--------------
 Our techniques requires PL   : PYTHON (VERSION 2.7.17), IDE  : PyCharm Community Edition
 numpy #version 1.19.5
 pandas #version 1.1.5
 seaborn
 
 Sample Commands 
+---------------
 In all the datasets, the benign URL is denoted by '0' and malicious URL is denoted by '1'. 
 Example: 
 http://www.exampledomain.com/urlpath/       '0'
+
 http://www.exampledomain.com/urlpath1/      '1'
+
 The URL label is either +1 (Malicious) or 0 (Benign).
 
 
 Training the classifiers.
+-------------------------
 The classifiers are trained with the 6 extracted datasets and then tested. The four models random forest, adaboost, gradient boost and xgboost are the four classifiers and these are trained on the 6 datasets. We have made also applied the testing and training on different mismatched datasets. The code for them are also given. The different parameters of the model are adjusted for the best results.
 It's been identified that a competent adversarial URL generating system can come up with URLs that can get past ML classifiers at the rate of one every 20 seconds or so. This makes current malicious URL detection systems insufficient.
 We overcome this using a Random Forest Classifier with adversarial training to counter adversarial attacks that works with an accuracy of approximately 96 percent.
@@ -53,19 +58,24 @@ The solution to be worked on is to build a GAN on the URL dataset and separate t
 
 
 Output of the Classifiers
+-------------------------
 The sample output of the classification result is as below.
 Example:
 accuracy of train phase is 99.6500
 accuracy of test phase is 99.3500
 Mean Squre Error - train 0.0000
 Mean Squre Error - test 0.0050
--------------------------------------Metrics------------------------------------------
+
+Metrics
+-------------------------
 Test accuracy score 99.6500
 Test Recall 99.0610
 Test Precision 99.1500
 Test F1 Score 99.5283
 Test F2 Score 99.2474
---------------------------TPR, TNR, FPR, FNR------------------------------------------
+
+TPR, TNR, FPR, FNR
+--------------------------
 TPR 0.9957
 TNR 0.9911
 FPR 0.0089
@@ -73,6 +83,7 @@ FNR 0.0043
 
 
 Please download the following packages for the implementation of ZOO attack:
+-----------------------------------------------------------------------------
 from sklearn.ensemble import GradientBoostingClassifier
 from matplotlib import pyplot as plt
 import art#fully initialise module
@@ -80,6 +91,7 @@ from art.estimators.classification import SklearnClassifier
 from art.attacks.evasion import ZooAttack
 
 Please download the following packages for training the classifiers:
+------------------------------------------------------------------------------
 import numpy
 import pandas
 import seaborn
