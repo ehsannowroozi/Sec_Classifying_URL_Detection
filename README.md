@@ -2,7 +2,7 @@
 Secure Classifying for Malicious URLs Detection Against Adversarial Attack
 
 
-Authors: [Ehsan Nowroozi](https://scholar.google.com/citations?user=C0bNkP8AAAAJ&hl=en), Abhishek, [Mohammadreza Mohammadi](https://scholar.google.com/citations?user=yGtuQv4AAAAJ&hl=en)[Mauro Conti](https://scholar.google.com/citations?user=0BcsOY8AAAAJ&hl=en)
+Authors: [Ehsan Nowroozi](https://scholar.google.com/citations?user=C0bNkP8AAAAJ&hl=en), Abhishek, [Mohammadreza Mohammadi](https://scholar.google.com/citations?user=yGtuQv4AAAAJ&hl=en), [Mauro Conti](https://scholar.google.com/citations?user=0BcsOY8AAAAJ&hl=en)
 
 2022-2023 
 [Ehsan Nowroozi], Center of Excellence in Data Analytics (VERIM), Sabanci University, Istanbul
