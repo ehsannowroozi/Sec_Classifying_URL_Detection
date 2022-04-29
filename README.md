@@ -15,7 +15,19 @@ Turkey 34956; Faculty of Engineering and Natural Sciences, Sabanci University, I
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.
 
-If you are using this software, please cite from [***](****). 
+If you are using this software, please cite our paper:
+
+@misc{https://doi.org/10.48550/arxiv.2204.13172,
+  doi = {10.48550/ARXIV.2204.13172},
+  url = {https://arxiv.org/abs/2204.13172}, 
+  author = {Nowroozi, Ehsan and {Abhishek} and Mohammadi, Mohammadreza and Conti, Mauro},
+  keywords = {Machine Learning (cs.LG), Artificial Intelligence (cs.AI), Cryptography and Security (cs.CR), Networking and Internet Architecture (cs.NI), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {An Adversarial Attack Analysis on Malicious Advertisement URL Detection Framework},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+
 
 ****
 
