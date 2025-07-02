@@ -6,7 +6,7 @@ Authors: [Ehsan Nowroozi](https://scholar.google.com/citations?user=C0bNkP8AAAAJ
 
 2022-2023 
 [Ehsan Nowroozi], Center of Excellence in Data Analytics (VERIM), Sabanci University, Istanbul
-Turkey 34956; Faculty of Engineering and Natural Sciences, Sabanci University, Istanbul, Turkey; University of Padua, Department of Mathematics, Seurity and Privacy Research Group (SPRITZ), Italy. (ehsan.nowroozi@sabanciuniv.edu, nowroozi@math.unipd.it, ehsan.nowroozi65@gmail.com). Personal Website: www.enowroozi.com
+Turkey 34956; Faculty of Engineering and Natural Sciences, Sabanci University, Istanbul, Turkey; University of Padua, Department of Mathematics, Seurity and Privacy Research Group (SPRITZ), Italy. (ehsan.nowroozi@sabanciuniv.edu, nowroozi@math.unipd.it, ehsan.nowroozi65@gmail.com). 
 
 [Abhishek], MNNIT Allahabad, Prayagraj-211004, India and University of Delhi-110007, Delhi, India. (abhishek1verma99@gmail.com)
          
